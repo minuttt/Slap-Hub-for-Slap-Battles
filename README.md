@@ -5,6 +5,6 @@ A Slap Battle GUI with many fun and unique things, all made by me.
 
 
 For the things in the "Fun" section, you will need the gloves listed.
-Dm _minute_ on discord for any bugs or suggestions.
+Dm "_"minute"_" on discord for any bugs or suggestions.
 
 
